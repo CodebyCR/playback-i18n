@@ -23,7 +23,7 @@
     <message>
         <location filename="../src/AboutWindow.cpp" line="160"/>
         <source>Serial</source>
-        <translation>Serial</translation>
+        <translation>Seriennummer</translation>
     </message>
     <message>
         <location filename="../src/AboutWindow.cpp" line="184"/>
@@ -619,7 +619,7 @@ Vendor: %4</source>
 OpenGL Details:
 Version: %2
 Renderer: %3
-Vendor: %4</translation>
+Anbieter: %4</translation>
     </message>
 </context>
 <context>
